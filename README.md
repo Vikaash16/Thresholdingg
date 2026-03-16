@@ -77,19 +77,7 @@ plt.show()
 ```
 ## Output
 
-### Original Image
-<img width="303" height="204" alt="image" src="https://github.com/user-attachments/assets/5bee9ef4-89a2-49b8-90ac-3d38612ee7e7" />
-
-
-### Global Thresholding
-<img width="316" height="217" alt="image" src="https://github.com/user-attachments/assets/6ee0c0b8-c504-4fc4-8f33-5f8873ebd18a" />
-
-
-### Adaptive Thresholding
-<img width="319" height="205" alt="image" src="https://github.com/user-attachments/assets/75f266b4-0c0b-4a9c-836c-6ef9c22de499" />
-
-### Optimum Global Thesholding using Otsu's Method
-<img width="304" height="204" alt="image" src="https://github.com/user-attachments/assets/a02e1774-37bf-4e1b-9664-912f109208fa" />
+<img width="815" height="543" alt="image" src="https://github.com/user-attachments/assets/a423b039-2a54-41b5-a29d-7d3d3ab0274b" />
 
 
 ## Result:
